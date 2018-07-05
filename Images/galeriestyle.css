@@ -1,0 +1,9 @@
+/* stylesheet for galerie.html file */
+a img
+{
+    border: 2px solid black;
+}
+a img:hover
+{
+    transition: all 1s ease-in;
+}
